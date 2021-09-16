@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlphonyPatronie
-- 👀 I’m interested in the capabilities of the software world. 
+- 👀 I’m interested in the capabilities of the software world && tequila. (;
 - 🌱 I’m currently learning Frontend as well as Backend development.
 - 💞️ I’m looking to collaborate on practical applications that can be applied to every day lifestyle.
 - 📫 How to reach me: In me DM's !
