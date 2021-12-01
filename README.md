@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alphony
 - 👀 I’m interested in the capabilities of the software world && tequila. (;
-- 🌱 I’m currently learning Frontend as well as Backend development.
+- 🌱 I’m currently learning Frontend as well as polishing Backend development.
 - 💞️ I’m looking to collaborate on practical applications that can be applied to every day lifestyle.
 - 📫 How to reach me: In me DM's !
 
